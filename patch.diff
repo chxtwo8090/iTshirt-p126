@@ -1,0 +1,26 @@
+From 3b673c3f327dd65321083040e78089f5d40cb9b5 Mon Sep 17 00:00:00 2001
+From: raccoon <gjlms003@google.com>
+Date: Wed, 24 Sep 2025 18:09:23 +0900
+Subject: [PATCH] =?UTF-8?q?p.116=20=EB=8C=93=EA=B8=80=20=EA=B8=B0=EB=8A=A5?=
+ =?UTF-8?q?=20=EA=B5=AC=ED=98=84?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ comment.md | 2 ++
+ 1 file changed, 2 insertions(+)
+ create mode 100644 comment.md
+
+diff --git a/comment.md b/comment.md
+new file mode 100644
+index 0000000..23a034b
+--- /dev/null
++++ b/comment.md
+@@ -0,0 +1,2 @@
++# p.116
++댓글 기능 구현
+\ No newline at end of file
+-- 
+2.52.0.windows.1
+
